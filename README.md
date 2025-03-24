@@ -1,21 +1,53 @@
-<h1 align="center">Hi 👋, I'm Luiz Rodrigues</h1>
-<h3 align="center">A passionate data engineer from Brazil</h3>
+<h1 align="center">Hi there! 👋 I'm Luiz Rodrigues</h1>
+<h3 align="center">🚀 Passionate Data Engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizrodrigues034&label=Profile%20views&color=000000&style=plastic" alt="luizrodrigues034" /> </p>
-
-- 🌱 I’m currently learning **Data Warehouse, Data Lake, Data Mart.**
-
-- 📫 How to reach me **luizrodriguescode@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-rodrigues-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-rodrigues-alves/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/luizrodriguesco1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luizrodriguesco1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave gif">
+  <img src="https://komarev.com/ghpvc/?username=luizrodrigues034&label=Profile%20views&color=0e75b6&style=plastic" alt="luizrodrigues034" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+### 💡 About Me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizrodrigues034&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="luizrodrigues034" /></p>
+- 🌱 Currently learning about **Data Warehouses, Data Lakes, and Data Marts**.
+- 💬 I enjoy talking about data architecture, system design, and best practices in software development.
+- 📫 Reach me at **[luizrodriguescode@gmail.com](mailto:luizrodriguescode@gmail.com)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizrodrigues034&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en" alt="luizrodrigues034" /></p>
+### 🔗 Connect With Me:
+
+<p>
+  <a href="https://www.linkedin.com/in/luiz-rodrigues-alves/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/luizrodriguesco1" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+### 🛠️ Languages & Tools:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizrodrigues034&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en" alt="Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizrodrigues034&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="Languages" />
+</p>
+
+---
+
+✨ Created with enthusiasm & coffee by Luiz Rodrigues ✨
