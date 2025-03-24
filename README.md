@@ -15,7 +15,7 @@
 
 - 🌱 Currently learning about **Data Warehouses, Data Lakes, and Data Marts**.
 - 💬 I enjoy talking about data infrastructure, data modeling, ETL processes, and everything data-related.
-- 📫 Reach me at **[luizrodriguescode@gmail.com](mailto:luizrodriguescode@gmail.com)**
+- - 📫 Reach me at **[luizrodriguescode@gmail.com](mailto:luizrodriguescode@gmail.com)**
 
 ---
 
