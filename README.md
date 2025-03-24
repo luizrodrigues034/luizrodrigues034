@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Data Engineer from Brazil</h3>
 
 <p align="center">
-  <img src="https://github.com/luizrodrigues034/luizrodrigues034/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/luizrodrigues034/luizrodrigues034/blob/main/code.gif?raw=true" width="400" alt="Coding Animation">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ### 💡 **About Me**
 
 - 🌱 Currently learning about **Data Warehouses, Data Lakes, and Data Marts**.
-- 💬 I enjoy talking about data architecture, system design, and best practices in software development.
+- 💬 I enjoy talking about data infrastructure, data modeling, ETL processes, and everything data-related.
 - 📫 Reach me at **[luizrodriguescode@gmail.com](mailto:luizrodriguescode@gmail.com)**
 
 ---
