@@ -41,10 +41,6 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizrodrigues034&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en" alt="Stats" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizrodrigues034&show_icons=true&theme=radical&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="Languages" />
 </p>
 
