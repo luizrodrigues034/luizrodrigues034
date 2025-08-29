@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Luiz Rodrigues</h1>
-<h3 align="center">🚀 Passionate Data Engineer from Brazil</h3>
+<h3 align="center">🚀 Passionate about technology</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave gif">
@@ -8,8 +8,7 @@
 
 ### 💡 About Me:
 
-- 🌱 Currently learning about **Data Warehouses, Data Lakes, and Data Marts**.
-- 💬 I enjoy talking about data infrastructure, data modeling, ETL processes, and everything data-related.
+- 🌱 Currently learning about **Networks, LGPD, VULNS**.
 - - 📫 Reach me at **[luizrodriguescode@gmail.com](mailto:luizrodriguescode@gmail.com)**
 
 ### 🔗 Connect With Me:
@@ -23,20 +22,6 @@
   </a>
 </p>
 
-### 🛠️ Languages & Tools:
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="40" height="40"/>
-</p>
 
 ### 📊 GitHub Stats:
 
