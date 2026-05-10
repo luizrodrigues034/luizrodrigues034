@@ -1,11 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Luiz Rodrigues</h1>
 <h3 align="center">🚀 Passionate about technology</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave gif">
-  <img src="https://komarev.com/ghpvc/?username=luizrodrigues034&label=Profile%20views&color=0e75b6&style=plastic" alt="luizrodrigues034" />
-</p>
-
 ### 💡 About Me:
 
 - 🌱 Currently learning about **Networks, LGPD, VULNS**.
